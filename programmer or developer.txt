@@ -1,0 +1,5 @@
+Programçı: Programçılar ümumilikdə proqramlaşdırma prosesində kod yazan profesionalları ifadə edir. Bir programçı, müəyyən bir proqramlaşdırma dilində proqram kodlarını yaradır və bu kodları redaktə edir. Ancaq, ümumilikdə işini daha çox kodlaşma və proqramlaşdırma səviyyəsində məhdudlaşdırmağa nail olur.
+
+Developer: Bu termin daha geniş bir mənbəni ifadə edə bilər. Developer, yalnızca kodlaşma ilə məhdud olmayan, geniş bir layihənin tamamında rol oynaya bilən bir profesional olaraq düşünülə bilər. Developer, proqramın təsərrüfatından başlayaraq, test proseslərinə qədər bir çox müxtəlif mərhələdə rol oynaya bilər. Beləliklə, bir Developer ümumilikdə sadəcə kod yazmaqla qalmaz, eyni zamanda qənaət, test, təhlil və hətta layihənin idarə olunması kimi sahələrdə də işləyə bilər.
+
+Ancaq, bu fərqi tamamilə dəqiqliyə çatmaq mümkün deyil və istifadələri fərqli məzmunlarda dəyişə bilər. Bəzi hallarda iki termin eyni şəxsi ifadə edə bilər və terminlərin istifadəsi əsasən şəxsin bacarıq dəsti və layihədəki roluna görə dəyişə bilər.

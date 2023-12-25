@@ -1,0 +1,18 @@
+Pradiqmalar
+
+Prosedural Paradigma: Proqramın sıralı addımlar halında yazıldığı və əməliyyatların müəyyən bir sıra daxilində icra edildiyi bir paradigmadır.
+
+Obyekt Mənali Paradigma (OOP): Proqramın obyektlər və siniflər əsasında təşkil edildiyi bir paradigmadır. Hər bir obyekt, məlumat və onunla əlaqələndirilmiş funksionaldan ibarətdir.
+
+Funksional Paradigma: Proqramın riyazi funksiyalar əsasında yazıldığı bir paradigmadır. Vəziyyət dəyişməzliyi və funksiyaların əsas obyektlər kimi istifadə olunması əsas xüsusiyyətləridir.
+
+Məntiq Paradigma: Məntiq ifadələrin istifadə olunduğu bir paradigmadır. Xüsusən, süni intellekt və məlumat əsaslı sistemlərdə yayımlandır.
+
+Hadisəyə Əsaslanan Paradigma: Proqramın hadisələrə cavab verdiyi bir paradigmadır. Geniş tətbiq sahələrində və oyun inkişafında istifadə olunur.
+
+Paradigmalar, müəyyən bir işi və ya problemin həll yolunu təyin edən əsas yanaşmaları ifadə edir. Lakin, indiyə qədər müşahidə edilmişdir ki, çox vaxt müxtəlif paradigmaların birləşdirildiyi çətin proqram layihələrində bu terminologiya daha geniş bir əhatə sahib olur.
+
+
+
+
+
